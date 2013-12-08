@@ -3,11 +3,11 @@
 # before sending it to the app. See some examples below:
 ##################################################################################
 # 
-# For "My Subscriptions" feed, replace <username> with you youtube ID.
+# For "My Subscriptions" feed, replace <bshugarman> with you youtube ID.
 youtubeFeed=http://gdata.youtube.com/feeds/base/users/neonbjb/newsubscriptionvideos
 #
-# <username>'s videos
-#http://gdata.youtube.com/feeds/api/videos?author=<username>
+# <bshugarman>'s videos
+#http://gdata.youtube.com/feeds/api/videos?author=<bshugarman>
 #
 # "Default", points to "Top Rated" feed.
 #youtubeFeed=http://gdata.youtube.com/feeds/api/standardfeeds/top_rated
